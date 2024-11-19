@@ -1,4 +1,4 @@
-# Gm_scraper
+ # Google map_scraper
 
 Google Maps Scraper is a Python-based application that automates the process of extracting business information from Google Maps. The application uses selenium for web scraping, BeautifulSoup for parsing HTML content, and aiohttp for making asynchronous HTTP requests to fetch email addresses.
 
@@ -25,19 +25,7 @@ Google Maps Scraper is a Python-based application that automates the process of 
   - CTkMessagebox
   - os
 
-## Installation
 
-1.Clone the repository:
-   ```sh
-   git clone https://github.com/ouazzag-mohamed/Gm_scraper.git
-   cd Gm_scraper
-   ```
-
-2.Install the required packages:
-   * requirements
-  ```sh
-  pip install -r requirements.txt
-  ```
 
 ## Usage
 
@@ -80,13 +68,9 @@ Google Maps Scraper is a Python-based application that automates the process of 
 
 ## Screenshots
 
-<a href="https://ibb.co/GJsJW69"><img src="https://i.ibb.co/z585XMF/Screenshot-from-2024-07-09-18-00-26.png" alt="Screenshot-from-2024-07-09-18-00-26" border="0"></a>
+<a href="https://top4top.io/"><img src="https://c.top4top.io/p_3245xma0h1.png" alt="google data scraper" border="0"></a> 
 
-## Support me
 
-<div align="center">
-<a href='https://ko-fi.com/mohamedog' target='_blank'><img height='64' style='border:0px;height:64px;' src='https://storage.ko-fi.com/cdn/kofi1.png?v=3' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
-</div>
 
 ## Contributing
 
@@ -96,8 +80,8 @@ Feel free to fork this project and submit pull requests. For major changes, plea
 
 ## Contact
 
-For any questions or feedback, please contact [me](mailto:ouazzagmohamed@gmail.com).
+For any questions or feedback, please contact [me](mailto:ossamabelhajiyen5@gmail.com).
 
 ---
 
-Happy scraping!
+Happy scraping! 
